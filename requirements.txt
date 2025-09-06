@@ -1,0 +1,7 @@
+matplotlib
+tabulate
+pandas
+
+flask
+fastapi
+uvicorn
