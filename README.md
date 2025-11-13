@@ -4,15 +4,15 @@ A comprehensive, interactive web application for learning and visualizing Operat
 
 ## 📋 Table of Contents
 
-- [Overview](-overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Team Contributions](#team-contributions)
-- [Architecture](#architecture)
-- [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Team Contributions](#-team-contributions)
+- [Architecture](#-architecture)
+- [API Documentation](#-api-documentation)
+- [Screenshots](#-screenshots)
 
 ## 🎯 Overview
 
