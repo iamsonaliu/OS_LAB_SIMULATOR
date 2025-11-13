@@ -4,7 +4,7 @@ A comprehensive, interactive web application for learning and visualizing Operat
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](-overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
