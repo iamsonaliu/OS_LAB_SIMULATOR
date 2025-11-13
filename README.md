@@ -232,8 +232,6 @@ The project evolved through three phases:
 2. **Phase 2**: API conversion and enhanced visualizations
 3. **Phase 3** (Current): Full-stack web application with modern UI
 
-The transition from Phase 1 to Phase 3 involved significant architectural work, including complete frontend development, API design, and system integration, which was primarily handled by Sonali.
-
 ## 🏗️ Architecture
 
 ### Backend Architecture
@@ -282,7 +280,6 @@ The backend provides comprehensive API documentation:
 
 ## 🎨 Screenshots
 
-*Note: Add screenshots of your application here*
 
 ## 📝 License
 
